@@ -1,0 +1,442 @@
+Grocery List
+
+Produce
+Asparagus	1
+
+Asparagus
+Broccoli
+Carrots
+Cauliflower
+Celery
+Corn
+Cucumbers
+Garlic
+Green Beans
+Herbs
+Lettuce
+Greens
+Mushrooms
+Onions
+Parsnips
+Peppers
+Potatoes
+Radishes
+Scallions
+Slaw
+Spinach
+Squash
+Zucchini
+Apples - Red
+Apples - Green
+Apples - Tart
+Apricots
+Avocados
+Bananas
+Blueberries
+Cantaloupe
+Cherries
+Cranberries
+Grapefruit
+Grapes - Red
+Grapes - Green
+Kiwis
+Lemons
+Limes
+Melon
+Nectarines
+Oranges
+Peaches
+Pears
+Plums
+Raspberries
+Strawberries
+Tomatoes
+Watermelon
+
+Meat
+
+Bacon
+Sausage
+Beef - steak
+Chicken
+Beef - Ground
+Turkey - Ground
+Ham
+Pork - Chops
+Pork - Breakfast Steaks
+Hot Dogs
+Bratwurst
+Lamb Chops
+Lunch Meat
+Beef - Roast
+Pork - Roast
+Seafood - Catfish
+Seafood - Crab
+Seafood - Lobster
+Seafood - Mussels
+Seafood - Oysters
+Seafood - Salmon
+Seafood - Shrimp
+Seafood - Tilapia
+Seafood - Tuna
+Turkey - Legs
+Turkey
+Veal
+
+Frozen
+
+Ice
+Cool Whip
+Fish Sticks
+Fries
+Tater Tots
+Fruit
+Ice Cream
+Popsicles
+Juice Concentrate
+Pancakes
+Waffles
+Pie Crusts
+Pizza
+TV Dinners
+Vegetables
+
+Beverages
+
+Beer
+Bottled Water
+Club Soda
+Tonic
+Coffee
+Coffee Filters
+Fruit Juice - Apple
+Fruit Juice - Cranberry
+Fruit Juice - Grape
+Fruit Juice - Lemonade
+Fruit Juice - Orange Juice
+Fruit Juice - Pomegranate
+Wine - Red
+Wine - White
+Soda - Coke
+Soda - Sprite
+Sport Drinks
+Tea - Black
+Tea - Green
+Tea - Herbal
+Vegetable Juice
+
+STORE BAKED
+
+Bagels
+Bread
+Buns
+Rolls
+Cake
+Cookies
+Brownies
+Croissants
+Doughnuts
+Muffins
+Pastries
+Pie
+
+CANNED
+
+Applesauce
+Fruit Cocktail
+Mandarin Oranges
+Peaches
+Pears
+Pie Filling
+Pineapple
+
+OTHER - FOOD
+Fruit Snacks
+Dried Cranberries
+Dried Fruit
+Raisins
+Pesto
+
+DELI
+
+Sandwich - Ham
+Sandwich - Turkey
+Salad - premade
+
+
+OTHER - NON FOOD
+
+Card
+Gift Wrap
+Magazine
+Newspaper
+Paper
+Envelopes
+Postage Stamps
+
+HOUSEHOLD
+
+Aluminum Foil
+Disposable Cups / Plates
+Disposable Utensils
+Facial Tissue
+Napkins
+Paper Towels
+Plastic Wrap
+Sandwich / Storage Bags
+Toilet Paper
+Trash Bags
+Wax Paper
+Toilet Cleaner
+Dish/Dishwasher Soap
+Disinfectant
+Dryer Sheets
+Dusting Spray
+Fabric Softener
+Glass Cleaner
+Laundry Detergent
+Bleach
+Mop
+Vacuum Bags
+Rubber Gloves
+Sponges
+Scrubbers
+Stain Remover
+Light Bulbs
+Batteries
+Flowers
+Candles
+
+PETS
+
+Cat Food
+Dog Food
+Flea Treatment
+Shampoo
+Litter
+Box Liners
+Toys
+Treats
+
+SNACKS
+
+Candy
+Gum
+Mints
+Chips
+Dip
+Cookies
+Crackers
+Graham Crackers
+Nuts
+Trail Mix
+Popcorn
+Pretzels - Regular / Sticks
+Pretzels - Sticks
+
+PASTA & NOODLES
+
+Macaroni & Cheese
+Pasta / Sauce
+
+Risotto
+Spaghetti / Linguine
+
+BEANS & GRAINS
+
+Rice - white
+Rice - brown
+Couscous
+Couscous - wheat
+
+CONDIMENT & SAUCES
+
+BBQ Sauce
+Horseradish
+Hot Sauce
+Jam
+Jelly
+Ketchup
+Mustard
+Peanut Butter
+Pickles
+Relish
+Olives
+Soy Sauce
+Steak Sauce
+Syrup
+Teriyaki
+Worcestershire
+Mayonnaise
+Miracle Whip
+Salsa
+Taco Enchilada Mix
+
+
+DRESSING & OILS
+
+Olive Oil
+Salad Dressing
+Vegetable oil
+Vinegar
+
+HOME BAKING
+
+Baking Powder
+Baking Soda
+Chocolate Chips
+Cocoa
+Coconut
+Cornstarch
+Flour - all purpose
+Flour - whole wheat
+Frosting
+Cake Decorations
+Jello
+Pudding
+Marshmallows
+Brownie - Mix 
+Cake - Mix
+Cookie - Mix
+Nuts - Almond
+Nuts - Pecan
+Nuts - Walnut
+Pancake Mix
+Salt
+Pepper
+Shortening
+Cooking Spray
+Spices
+Sugar - Reg
+Sugar - Brown
+Sugar - Conf
+Sugar - Raw
+Sugar Sub - stevia
+Honey
+Vanilla Extract
+Yeast
+
+PERSONAL CARE
+
+Antiseptic
+Bandages
+Aspirin
+Ibuprofen
+Body Lotion
+Contact Lens Solution
+Cosmetics
+Cotton Balls
+Swabs
+Dental Floss
+Toothpaste
+Deodorant
+
+Feminine Hygiene
+
+Hair Gel
+Hair Spray
+Hair Shampoo
+Hair Conditioner
+Hand Sanitizer
+Meds - Cold / Flu / Sinus
+Mouthwash
+Razors
+Shaving Cream
+Soap
+Sunblock
+Repellent
+Vitamins
+
+
+BABY
+
+Diapers
+Wipes
+Food
+Formula
+Lotion
+Shampoo
+Wash
+
+CANNED
+
+Baked Beans
+Beans - black
+Beans
+Beets
+Broth - Beef
+Broth - Chick
+Broth - Veg
+Carrots
+Chestnuts
+Corn
+Peas
+Soup
+Chili
+Tomatoes - Diced
+Tuna
+Chicken
+Sardines
+
+BREAKFAST
+
+Breakfast Bars
+Cereal
+Oatmeal
+Toaster Pastries
+
+BREADS
+
+Bagels
+Bread - white
+Bread - whole wheat
+Bread Crumbs
+Stuffing
+Bread - hotdog buns whole wheat
+Bread - hamburger buns whole wheat
+English Muffins
+Pitas
+Rolls
+Whole Wheat
+Taco Sauce
+Shells
+Tortillas
+
+DAIRY SECTION
+
+Butter
+Margarine
+Coffee Cream
+Dough - Biscuit
+Dough - Cookie
+Dough - Cinnamon Roll
+Dough - Crescent Roll
+Eggs
+Eggs - substitute
+Whipping Cream
+Cheese - feta
+Cheese - goat
+Cheese - mozzarella
+Cheese - parmesan
+Cheese - provolone
+Cheese - sliced
+Cheese - shredded
+Cheese - Ricotta
+Cheese - Cream (cheese)
+Cheese - Cottage (cheese)
+Milk - Whole
+Milk - 2%
+Milk - 1%
+Milk - Almond plain
+Milk - Almond vanilla
+Milk - Almond chocolate
+Milk - Soy
+Milk - Soy vanilla
+Milk - Cocunut
+Yogurt - plain
+Yogurt - flavored
+Yogurt - Greek plain
+Yogurt - Greek flavored
+Sour Cream
+
+
