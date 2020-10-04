@@ -18,11 +18,11 @@ class groceryList():
                 print(str(recipe) + ". "+ str(name)+ " : " + str(values) +"\n")
 
     def addOrUpdateRecipe():
-        title = input("What is the name of your recipe?")
+        title = input("What is the name of your recipe? ")
         ingredient = None
         while True :
             print("type 'remove' to delete existing ingredients--OR")
-            ingredient = input("please type in new ingredients one by one. When done, type 'end'.")
+            ingredient = input("please type in new ingredients one by one. When done, type 'end'. ")
             if ingredient == "end" :
                 break
             #removing ingredients from an existing recipe
@@ -30,13 +30,13 @@ class groceryList():
                 try:
                     print(title, ": ", recipes[title])
                 except:
-                    print("that recipe is not found, please try again.")
+                    print("that recipe is not found, please try again. ")
                     break
-                ringredient = input("what ingredient would you like to remove from the " + title + " recipe?")
+                ringredient = input("what is the name of the ingredient you'd like to remove from the " + title + " recipe? ")
                 try:
                     recipes[title].remove(ringredient)
                 except:
-                    print("that ingredient is not found in " + title + " please select from the ingredients below.")
+                    print("that ingredient is not found in " + title + " please select from the ingredients below. ")
                     print(title, ": ", recipes[title])
                     continue
             #adding ingredients to existing or new recipes
@@ -62,7 +62,7 @@ class groceryList():
     def deleteRecipe():
         print("Here is your current list\n\n")
         groceryList.viewRecipeCollection()
-        delete = input('What recipe would you like to delete from your collection?')
+        delete = input("What's the name of the recipe you like to delete from your collection? ")
         del recipes[delete]
         with open('recipes.json', 'w') as fp:
             json.dump(recipes, fp)
@@ -74,7 +74,7 @@ class groceryList():
         x = sorted(recipes.items(), key=lambda x: x[0])
         shoppingList = []
         while True:
-            selectionr = input("\n\n Select each recipe to add to your list, one by one. When done, type 'end'." )
+            selectionr = input("\n\n Select each recipe to add to your list, one by one, by typing in it's number value. When done, type 'end'." )
             if selectionr == "end" : break
             else :
                 countr = 0
@@ -127,16 +127,19 @@ for funct in dir(groceryList()):
     if "_" in funct : continue
     options.append(funct)
 
+while True:
 #enumerate the functions in the class' directory and prints as a list
-for counter, value in enumerate(options, 1):
-    print(str(counter) +". "+ value)
+    for counter, value in enumerate(options, 1):
+        print(str(counter) +". "+ value)
 
 #user selects function
-selection = input("\n\n what would you like to do?")
-counto = 0
-for choice in options:
-    counto = counto + 1
-    if counto != int(selection) : continue
-    else:
-        print("\n\nYou've chosen to "+ str(choice) + "!\n\n")
-        print(getattr(groceryList, choice)())
+
+    selection = input("\n\n what would you like to do? Please select/type the number value from the menu, above or type 'end' to exit. ")
+    if selection == "end" : break
+    counto = 0
+    for choice in options:
+        counto = counto + 1
+        if counto != int(selection) : continue
+        else:
+            print("\n\nYou've chosen to "+ str(choice) + "!\n\n")
+            print(getattr(groceryList, choice)())
