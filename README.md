@@ -31,7 +31,7 @@ This project uses a JSON file to store the data, however I had discovered that a
 
 <em>NEW FEATURES</em>
 <ul>
-<li>Change the UI from Comannd Line to a GUI;</li>
+<li>Change the UI from Command Line to a GUI;</li>
 <li>store to a SQL database using MySQL or PostgreSQL.</li>
 </ul>
 </p>
